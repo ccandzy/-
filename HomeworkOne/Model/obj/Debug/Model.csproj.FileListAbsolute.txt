@@ -1,0 +1,5 @@
+G:\VIP10课程作业\第一次作业\HomeworkOne\Model\bin\Debug\Model.dll
+G:\VIP10课程作业\第一次作业\HomeworkOne\Model\bin\Debug\Model.pdb
+G:\VIP10课程作业\第一次作业\HomeworkOne\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+G:\VIP10课程作业\第一次作业\HomeworkOne\Model\obj\Debug\Model.dll
+G:\VIP10课程作业\第一次作业\HomeworkOne\Model\obj\Debug\Model.pdb

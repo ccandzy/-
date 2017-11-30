@@ -1,0 +1,17 @@
+G:\VIP10课程作业\第一次作业\HomeworkOne\HomeworkOne\bin\Debug\HomeworkOne.exe.config
+G:\VIP10课程作业\第一次作业\HomeworkOne\HomeworkOne\bin\Debug\HomeworkOne.exe
+G:\VIP10课程作业\第一次作业\HomeworkOne\HomeworkOne\bin\Debug\HomeworkOne.pdb
+G:\VIP10课程作业\第一次作业\HomeworkOne\HomeworkOne\bin\Debug\Common.dll
+G:\VIP10课程作业\第一次作业\HomeworkOne\HomeworkOne\bin\Debug\Factory.dll
+G:\VIP10课程作业\第一次作业\HomeworkOne\HomeworkOne\bin\Debug\IService.dll
+G:\VIP10课程作业\第一次作业\HomeworkOne\HomeworkOne\bin\Debug\Model.dll
+G:\VIP10课程作业\第一次作业\HomeworkOne\HomeworkOne\bin\Debug\SqlServerServices.dll
+G:\VIP10课程作业\第一次作业\HomeworkOne\HomeworkOne\bin\Debug\Common.pdb
+G:\VIP10课程作业\第一次作业\HomeworkOne\HomeworkOne\bin\Debug\Factory.pdb
+G:\VIP10课程作业\第一次作业\HomeworkOne\HomeworkOne\bin\Debug\IService.pdb
+G:\VIP10课程作业\第一次作业\HomeworkOne\HomeworkOne\bin\Debug\Model.pdb
+G:\VIP10课程作业\第一次作业\HomeworkOne\HomeworkOne\bin\Debug\SqlServerServices.pdb
+G:\VIP10课程作业\第一次作业\HomeworkOne\HomeworkOne\obj\Debug\HomeworkOne.csprojResolveAssemblyReference.cache
+G:\VIP10课程作业\第一次作业\HomeworkOne\HomeworkOne\obj\Debug\HomeworkOne.csproj.CoreCompileInputs.cache
+G:\VIP10课程作业\第一次作业\HomeworkOne\HomeworkOne\obj\Debug\HomeworkOne.exe
+G:\VIP10课程作业\第一次作业\HomeworkOne\HomeworkOne\obj\Debug\HomeworkOne.pdb

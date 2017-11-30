@@ -1,0 +1,10 @@
+G:\VIP10课程作业\第一次作业\HomeworkOne\Factory\bin\Debug\Factory.dll
+G:\VIP10课程作业\第一次作业\HomeworkOne\Factory\bin\Debug\Factory.pdb
+G:\VIP10课程作业\第一次作业\HomeworkOne\Factory\bin\Debug\IService.dll
+G:\VIP10课程作业\第一次作业\HomeworkOne\Factory\bin\Debug\Model.dll
+G:\VIP10课程作业\第一次作业\HomeworkOne\Factory\bin\Debug\IService.pdb
+G:\VIP10课程作业\第一次作业\HomeworkOne\Factory\bin\Debug\Model.pdb
+G:\VIP10课程作业\第一次作业\HomeworkOne\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+G:\VIP10课程作业\第一次作业\HomeworkOne\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+G:\VIP10课程作业\第一次作业\HomeworkOne\Factory\obj\Debug\Factory.dll
+G:\VIP10课程作业\第一次作业\HomeworkOne\Factory\obj\Debug\Factory.pdb

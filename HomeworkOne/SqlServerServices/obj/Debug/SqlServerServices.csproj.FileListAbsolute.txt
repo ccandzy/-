@@ -1,0 +1,12 @@
+G:\VIP10课程作业\第一次作业\HomeworkOne\SqlServerServices\bin\Debug\SqlServerServices.dll
+G:\VIP10课程作业\第一次作业\HomeworkOne\SqlServerServices\bin\Debug\SqlServerServices.pdb
+G:\VIP10课程作业\第一次作业\HomeworkOne\SqlServerServices\bin\Debug\Common.dll
+G:\VIP10课程作业\第一次作业\HomeworkOne\SqlServerServices\bin\Debug\IService.dll
+G:\VIP10课程作业\第一次作业\HomeworkOne\SqlServerServices\bin\Debug\Model.dll
+G:\VIP10课程作业\第一次作业\HomeworkOne\SqlServerServices\bin\Debug\Common.pdb
+G:\VIP10课程作业\第一次作业\HomeworkOne\SqlServerServices\bin\Debug\IService.pdb
+G:\VIP10课程作业\第一次作业\HomeworkOne\SqlServerServices\bin\Debug\Model.pdb
+G:\VIP10课程作业\第一次作业\HomeworkOne\SqlServerServices\obj\Debug\SqlServerServices.csprojResolveAssemblyReference.cache
+G:\VIP10课程作业\第一次作业\HomeworkOne\SqlServerServices\obj\Debug\SqlServerServices.csproj.CoreCompileInputs.cache
+G:\VIP10课程作业\第一次作业\HomeworkOne\SqlServerServices\obj\Debug\SqlServerServices.dll
+G:\VIP10课程作业\第一次作业\HomeworkOne\SqlServerServices\obj\Debug\SqlServerServices.pdb
